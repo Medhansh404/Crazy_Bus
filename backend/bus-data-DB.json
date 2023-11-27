@@ -1,0 +1,94 @@
+
+[
+    {
+      "busType": "AC Sleeper",
+      "busID": "BUS001",
+      "destination": "rajapark",
+      "totalSeats": "50",
+      "availableSeats": "30",
+      "pricePerSeat": "500",
+      "date":"2023-11-26"
+    },
+    {
+      "busType": "Non-AC Seater",
+      "busID": "BUS002",
+      "destination": "lnmiit",
+      "totalSeats": "40",
+      "availableSeats": "20",
+      "pricePerSeat": "300",
+      "date":"2023-11-26"
+    },
+    {
+      "busType": "Luxury Coach",
+      "busID": "BUS003",
+      "destination": "ajmeri gate",
+      "totalSeats": "60",
+      "availableSeats": "40",
+      "pricePerSeat": "700",
+      "date":"2023-11-26"
+    },
+    {
+      "busType": "Sleeper",
+      "busID": "BUS004",
+      "destination": "rajapark",
+      "totalSeats": "45",
+      "availableSeats": "25",
+      "pricePerSeat": "450",
+      "date":"2023-11-26"
+    },
+    {
+      "busType": "AC Seater",
+      "busID": "BUS005",
+      "destination": "lnmiit",
+      "totalSeats": "35",
+      "availableSeats": "15",
+      "pricePerSeat": "400",
+      "date":"2023-11-26"
+    },
+    {
+      "busType": "Mini Bus",
+      "busID": "BUS006",
+      "destination": "ajmeri gate",
+      "totalSeats": "25",
+      "availableSeats": "10",
+      "pricePerSeat": "600",
+      "date":"2023-11-26"
+    },
+    {
+      "busType": "Semi-Sleeper",
+      "busID": "BUS007",
+      "destination": "rajapark",
+      "totalSeats": "55",
+      "availableSeats": "35",
+      "pricePerSeat": "550",
+      "date":"2023-11-26"
+    },
+    {
+      "busType": "Double Decker",
+      "busID": "BUS008",
+      "destination": "lnmiit",
+      "totalSeats": "30",
+      "availableSeats": "15",
+      "pricePerSeat": "450",
+      "date":"2023-11-26"
+    },
+    {
+      "busType": "Executive",
+      "busID": "BUS009",
+      "destination": "ajmeri gate",
+      "totalSeats": "50",
+      "availableSeats": "30",
+      "pricePerSeat": "650",
+      "date":"2023-11-26"
+    },
+    {
+      "busType": "Standard",
+      "busID": "BUS010",
+      "destination": "rajapark",
+      "totalSeats": "40",
+      "availableSeats": "20",
+      "pricePerSeat": "350",
+      "date":"2023-11-26"
+    }
+  ]
+  
